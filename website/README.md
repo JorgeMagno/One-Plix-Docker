@@ -12,7 +12,7 @@ Projeto desenvolvido na DIO para recriar a interface da Netflix. Aqui resolvi cr
 - Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ### Interface
-![Interface do site](/img/interface-one-plix.png)
+![Interface do site](./img/interface-one-plix.png)
 
 ### Descrição
 
