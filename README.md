@@ -1,11 +1,7 @@
-<h1 align="center">Criando uma aplicação web usando Docker/h1>
+<h1 align="center">Criando uma aplicação web usando Docker</h1>
 
+### Descrição
 Projeto desenvolvido na DIO para subir uma aplicação usando o docker. Aqui resolvi subir a One Plix, plataforma desenvolvida anteriormente que contém os arcos do Anime One Piece. 
-
-### Status
-<h4 align="center"> 
-	:ok: Finalizado :ok:
-</h4>
 
 ### Pré-Requisitos
 - Conhecimento Básico em Docker(Docker Compose);
